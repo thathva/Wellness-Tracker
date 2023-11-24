@@ -1,6 +1,5 @@
-# SEGroup4Fitocity
 
-## Deploying to `prod`
+## Deploying to `prod` - No longer working because of Heroku's paid plans.
 
 1) Ensure the backend and frontend servers work as expected with localhost:5000 and localhost:3000 respectively on the `main `branch.
 2) Merge the changes into the `prod` branch.
